@@ -1,0 +1,22 @@
+.nav-link {
+    display: flex;
+    list-style: none;
+    padding-left: 0;
+    background-color: black;
+    width: 100%;
+    height: 100px;
+    justify-content: space-between;
+}
+
+.nav-link-item {
+    padding-right: 2rem;  
+}
+
+.nav-link-text {
+    color: white;
+}
+
+.img {
+    height: 50px;
+    width: 100px;
+}
